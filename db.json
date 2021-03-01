@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "subject": "Worth to know", "title": "What is vaccination?", "link": "https://en.wikipedia.org/wiki/Vaccination" }
+    { "id": 1, "subject": "Worth to know", "title": "What is vaccination?", "link": "https://en.wikipedia.org/wiki/Vaccination" },
     { "id": 2, "subject": "Worth to know", "title": "Everything you need to know about J&J's vaccine", "link": "https://www.advisory.com/daily-briefing/2021/02/26/jj-vaccine" }
   ]
 }
